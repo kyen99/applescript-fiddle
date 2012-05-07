@@ -1,0 +1,3 @@
+#!/usr/bin/osascript
+
+return "hello world"
