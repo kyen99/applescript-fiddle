@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# osascript ./compiled.scpt
+/usr/bin/osascript ./compiled.scpt 1 2
 
 osascript <<EOF
 display dialog "test"
