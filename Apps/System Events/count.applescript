@@ -1,6 +1,3 @@
-tell application "Terminal"
-	activate
 	tell application "System Events"
 		return count of (processes whose name is "VLC")
 	end tell
-end tell

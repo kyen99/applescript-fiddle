@@ -1,0 +1,1 @@
+tell application "Safari" to open location "http://www.hulu.com/"

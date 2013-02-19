@@ -1,7 +1,4 @@
+#!/usr/bin.osascript
 tell application "VLC"
-    activate
-    open "/Users/nordmenss/press.avi"
-end tell
-tell application "System Events"
-    keystroke "f" using {command down}
+	tell front window to return miniaturizable
 end tell

@@ -1,3 +1,3 @@
-tell application "TextEdit"
+tell application "AppleScript Editor"
 	get properties
 end tell

@@ -1,3 +1,5 @@
 tell application "Terminal"
-	close (front window) saving no
+	tell front window
+		do script "clear"
+	end tell
 end tell

@@ -11,3 +11,4 @@ set volume without output muted
 output volume of (get volume settings)
 output muted of (get volume settings)
 #alert muted of (get volume settings)
+output volume of (get volume settings)
