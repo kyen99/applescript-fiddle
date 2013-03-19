@@ -1,4 +1,4 @@
-#!/usr/bin.osascript
+#!/usr/bin/osascript
 
 tell application "Terminal"
 	activate

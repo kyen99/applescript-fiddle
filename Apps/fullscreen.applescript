@@ -1,4 +1,4 @@
-#!/usr/bin.osascript
+#!/usr/bin/osascript
 
 on isFullScreen()
 	tell application "System Events"
